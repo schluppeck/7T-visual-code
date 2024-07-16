@@ -4,7 +4,7 @@
 
 This repository (and associated github pages) have moved. It's now public and owned by `nottingham-neuroimaging`.
 
-- For the rendered documentation view [go to nottingham-neuroimaging.github.io/7T-visual-code](https://nottingham-neuroimaging.github.io/)7T-visual-code/)
+- For the rendered documentation view [go to nottingham-neuroimaging.github.io/7T-visual-code](https://nottingham-neuroimaging.github.io/7T-visual-code/)
 
 - the code repository is here: <(https://www.github.com/nottingham-neuroimaging/7T-visual-code/>
 
