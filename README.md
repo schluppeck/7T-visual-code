@@ -2,7 +2,7 @@
 
 2024-07-16, denis schluppeck
 
-This repository (and associated github pages) have moved.
+This repository (and associated github pages) have moved. It's now public and owned by `nottingham-neuroimaging`.
 
 - For the rendered documentation view [go to nottingham-neuroimaging.github.io/7T-visual-code](https://nottingham-neuroimaging.github.io/)7T-visual-code/)
 
